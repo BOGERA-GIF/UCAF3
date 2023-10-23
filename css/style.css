@@ -164,5 +164,11 @@ body {
 
 	.card {
 		margin-bottom: 30px;
+
 	}
-}
+
+
+
+	ul {
+		list-style-type: square;
+	}
